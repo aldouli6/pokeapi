@@ -1,0 +1,11 @@
+jorge.zaragoza@ikontechnologies.com
+
+[04:00 p. m.] Jorge Zaragoza
+    https://pokeapi.co/api/v2/pokemon/
+
+    
+Listado con nombre
+https://pokeapi.co/api/v2/pokemon/{​name or id}​/
+
+​[04:09 p. m.] Jorge Zaragoza
+    jorge.zaragoza@ikontechnologies.com
